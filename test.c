@@ -1,6 +1,6 @@
 int main()
 {
-    int m;
+    int m,n;
     printf("test\n");
     return 0;
 }
