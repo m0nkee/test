@@ -1,7 +1,7 @@
 int main()
 {
     int m;
-		int n;
+    int n=1;
     printf("test\n");
     return 0;
 }
